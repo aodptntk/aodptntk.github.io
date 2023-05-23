@@ -1,0 +1,14 @@
+.home-bg{
+  background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );
+}
+.about-bg{
+  background-color: #f8fcff;
+}
+.package-bg{
+  background-color: #212529;
+  color: white;
+  text-align: center;
+}
+.contact-bg{
+  background-color: #f8fcff;
+}
